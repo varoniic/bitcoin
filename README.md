@@ -1,4 +1,6 @@
 # Bitcoin README
 
-Install: npm install
-Run: npm start
+### Install: ###
+ * npm install
+### Run: ###
+ * npm start
